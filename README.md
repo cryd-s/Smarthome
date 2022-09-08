@@ -1,4 +1,3 @@
-# Home Assistant by Cryd
-Hier gibt es einige Codes aus meinem HA Setup.
+alle Anleitungen und Codes findet ihr ab sofort in unserem Gitbook
 
-Playlist: https://www.youtube.com/watch?v=GTThFBnR2nM&list=PLWqnUinimMN0oH5p3i-YDYqiLOVl8ofg7
+https://crydteam.gitbook.io/crydteam-wiki/smarthome-via-home-assistant
