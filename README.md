@@ -1,3 +1,3 @@
-alle Anleitungen und Codes findet ihr ab sofort in unserem Gitbook
+alle Anleitungen und Codes findet ihr ab sofort in unserem Wiki
 
-https://crydteam.gitbook.io/crydteam-wiki/smarthome-via-home-assistant
+https://book.cryd.de
